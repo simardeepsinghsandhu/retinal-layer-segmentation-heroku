@@ -6,4 +6,4 @@ pandas==1.4.3
 scikit_learn==1.1.1
 segmentation_models==1.0.1
 streamlit==1.10.0
-tensorflow==1.14
+tensorflow-cpu==2.8
